@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Created with Unified Streaming Platform(version=1.8.4)
+#EXT-X-MEDIA-SEQUENCE:248123989
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:6
+#USP-X-TIMESTAMP-MAP:MPEGTS=86246304,LOCAL=2020-04-27T13:18:43.200000Z
+#EXT-X-PROGRAM-DATE-TIME:2020-04-27T13:18:43.200000Z
+#EXTINF:6.4, no desc
+bbc_radio_two-audio=320000-248123989.ts
+#EXTINF:6.4, no desc
+bbc_radio_two-audio=320000-248123990.ts
+#EXTINF:6.4, no desc
+bbc_radio_two-audio=320000-248123991.ts
+#EXTINF:6.4, no desc
+bbc_radio_two-audio=320000-248123992.ts
+#EXTINF:6.4, no desc
+bbc_radio_two-audio=320000-248123993.ts
